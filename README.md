@@ -5,4 +5,5 @@ Place 'main.c' and 'entries.txt' in the same folder.
 
 ![image](https://github.com/ccc909/Minesweeper_Sem2_1/assets/57506761/09c861b0-3236-48cf-94e3-dd5b23b7efe7)
 
-![image](https://github.com/ccc909/Minesweeper_Sem2_1/assets/57506761/4abd5070-c4c1-4110-9d3b-036b0e7a4297)
+![image](https://github.com/ccc909/Minesweeper_Sem2_1/assets/57506761/d1acbaf7-9964-41d3-a5fd-ed6eb3075aa4)
+
